@@ -39,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+
+
+
     public void callIntent(View view) {
 
         Intent intent = new Intent(Intent.ACTION_SEND);
